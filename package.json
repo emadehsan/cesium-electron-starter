@@ -13,10 +13,10 @@
   "author": "Emad Ehsan",
   "license": "ISC",
   "devDependencies": {
-    "cesium": "^1.34.0",
-    "electron": "^1.6.10"
+    "cesium": "^1.75.0",
+    "electron": "^10.1.5"
   },
   "dependencies": {
-    "electron": "^1.6.10"
+    "electron": "^10.1.5"
   }
 }
